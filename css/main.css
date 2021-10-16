@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+background-color: rgba(82, 56, 56, 0.644);
+
+}
+
+
+header, main{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.342);
+
+}
+button{
+    color: white;
+    width: 88px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: rgba(181, 181, 253, 0.384);
+}
+img{
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    padding: 10px;
+}
